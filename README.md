@@ -14,6 +14,12 @@ A tutorial on Git fundamentals for beginners, including:-
 * Creating a PR (pull request)
 * Merging on Github with pull requests
 
+__Get started__
+---------------
+To get started, just clone this repo on to your own system:-
+
+`git clone https://github.com/webtuu/git_basics.git`
+
 Full tutorial - https://webtuu.com/blog/04/git-basics-branching-merging-push-to-github
 
 Feedback/suggestions on improvements welcome!
