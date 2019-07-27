@@ -1,4 +1,4 @@
-__[webtuu](google.com) | tutorials__
+__[webtuu](https://webtuu.com/blog) | tutorials__
 =====================
 ### Git Basics Tutorial
 
@@ -22,5 +22,5 @@ Full tutorial - https://webtuu.com/blog/04/git-basics-branching-merging-push-to-
 Feedback/suggestions on improvements welcome!
 
 <p align="center">
-<img height="80px" src="https://avatars2.githubusercontent.com/u/49844884?s=460&v=4"/>
+<a href="https://webtuu.com/blog"><img height="80px" src="https://avatars2.githubusercontent.com/u/49844884?s=460&v=4"/></a>
  </p>
