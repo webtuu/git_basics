@@ -13,9 +13,9 @@ A tutorial on Git fundamentals for beginners, including:-
 
 __Get started__
 ---------------
-To get started, just clone this repo on to your own system:-
+To get started, just fork this repo using the button on the top right of this page, and then clone (download) your repo to your own system with:-
 
-`git clone https://github.com/webtuu/git_basics.git`
+`git clone https://github.com/your-github-username-here/git_basics.git`
 
 Full tutorial - https://webtuu.com/blog/04/git-basics-branching-merging-push-to-github
 
